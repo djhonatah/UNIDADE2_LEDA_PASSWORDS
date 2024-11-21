@@ -6,7 +6,7 @@ Para utilizar o arquivo principal, siga os passos abaixo:
 - Navegue até src
 - Abra o arquivo *InputVar.java*
 - Localize o método *arrayData*
-- Altere os campos que possuem uma string representando o "filename" para "dataset/passwords_formated_data.csv"
+- Altere os campos que possuem uma string representando o "filename" para "./src/dataset/passwords_formated_data.csv"
 
 ### Instruções de Execução
 
